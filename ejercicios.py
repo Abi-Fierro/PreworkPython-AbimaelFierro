@@ -82,7 +82,6 @@
 # Ejercicio 19: Verificación de Año Bisiesto
 # Escribe un programa que determine si un año ingresado por el usuario es bisiesto o
 # no.
-
 # Ejercicio 20: Suma de Números en una Lista
 # Crea un programa que sume todos los números en una lista ingresada por el
 # usuario.
